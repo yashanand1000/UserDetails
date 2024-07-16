@@ -39,10 +39,7 @@ This project is a simple web application to collect and store user details like 
     npm install
     ```
 
-4. Create a `.env` file in the `backend` directory and add your MongoDB connection string:
-    ```
-    MONGO_URI=your_mongodb_connection_string
-    ```
+4. Setup a Mongo DB in the local host machine
 
 5. Start the backend server:
     ```sh
